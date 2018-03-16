@@ -11,7 +11,13 @@
   <div class="container">
     <!-- <form method>
     </form> -->
-  </div>  
+  </div>
+  <ul class="mylist">
+    <li class="item">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, voluptatibus.</li>
+    <li class="item">Esse fugit provident perferendis iure magni possimus, aut ipsam dignissimos?</li>
+    <li class="item">Corrupti quo at reiciendis reprehenderit eveniet cum, quibusdam ex. Neque!</li>
+    <li class="item">Odit id officia corrupti dolorem fugit dignissimos blanditiis rerum neque.</li>
+  </ul>
   <footer>
     <p>My Website &copy; 2017</p>
   </footer>
